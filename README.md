@@ -25,10 +25,11 @@ Weather forecast for CITY, COUNTRY
 
 1. Clone the repository.
 2. Build by
-   `go build -o NAME`
-3. Obtain an API key from openweathermap.org.
-4. Set your API key in the application.
-5. Run the app.
+   `go build -o CHOSE_A_APP_NAME`
+   Note: for windows users the name should end in .exe
+4. Obtain an API key from openweathermap.org.
+5. Set your API key in the application. (replace { YOUR API KEY })
+6. Run the app.
 
 ## Usage
 
